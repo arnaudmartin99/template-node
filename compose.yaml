@@ -3,4 +3,4 @@ services:
     template-node:
         ports:
             - 3000:3000
-        image: template-node
+        image: arnaudmartin99/template-node
