@@ -1,0 +1,6 @@
+name: template-node
+services:
+    template-node:
+        ports:
+            - 3000:3000
+        image: template-node
